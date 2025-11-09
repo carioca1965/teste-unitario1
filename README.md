@@ -113,12 +113,3 @@ git push -u origin main
 # ✅ Conclusão
 
 Com este projeto, você garante uma base sólida de testes unitários, reduzindo bugs e aumentando a confiabilidade do sistema.
-
-Se quiser, posso:
-
-* ✅ Gerar uma **capa (banner)** para o repositório
-* ✅ Criar **mais testes (edge cases, exceptions)**
-* ✅ Criar um **.sln completo**
-* ✅ Adicionar **badges profissionais** ao README
-
-É só pedir! 🚀
